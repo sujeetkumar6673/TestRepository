@@ -1,0 +1,15 @@
+D:\SchoolProject\LotusSchool\LotusSchool\bin\LotusSchool.dll
+D:\SchoolProject\LotusSchool\LotusSchool\bin\LotusSchool.pdb
+D:\SchoolProject\LotusSchool\LotusSchool\obj\Debug\LotusSchool.csprojResolveAssemblyReference.cache
+D:\SchoolProject\LotusSchool\LotusSchool\obj\Debug\LotusSchool.dll
+D:\SchoolProject\LotusSchool\LotusSchool\obj\Debug\LotusSchool.pdb
+E:\sujeet\SchoolProject\LotusSchool\LotusSchool\bin\LotusSchool.dll
+E:\sujeet\SchoolProject\LotusSchool\LotusSchool\bin\LotusSchool.pdb
+E:\sujeet\SchoolProject\LotusSchool\LotusSchool\obj\Debug\LotusSchool.csprojResolveAssemblyReference.cache
+E:\sujeet\SchoolProject\LotusSchool\LotusSchool\obj\Debug\LotusSchool.dll
+E:\sujeet\SchoolProject\LotusSchool\LotusSchool\obj\Debug\LotusSchool.pdb
+E:\SchoolProject\LotusSchool\LotusSchool\bin\LotusSchool.dll
+E:\SchoolProject\LotusSchool\LotusSchool\bin\LotusSchool.pdb
+E:\SchoolProject\LotusSchool\LotusSchool\obj\Debug\LotusSchool.csprojResolveAssemblyReference.cache
+E:\SchoolProject\LotusSchool\LotusSchool\obj\Debug\LotusSchool.dll
+E:\SchoolProject\LotusSchool\LotusSchool\obj\Debug\LotusSchool.pdb
